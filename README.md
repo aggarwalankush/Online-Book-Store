@@ -1,6 +1,6 @@
 Online-Book-Store
 =================
-Online BookStore is an online web application developed using Java, JSP, Javascript, HTML, CSS, SQL where a customer can purchase books.
+Online BookStore is an online web application developed using Java, JSP, Javascript, HTML, CSS, SQL where a customer can purchase books based on their interests and tastes.
 
 Some features of the system
  * Search for a book by title or author
